@@ -41,7 +41,7 @@ The database is named **`BANKYPIZZA`** and contains the following tables:
 ## 📋 Key Business Questions
 
 Business questions were framed to demonstrate value-driven insights.  
-🔗 [See full list here →]((https://github.com/OreBank/Banky-Pizza-/blob/main/Business%20Questions%20and%20Problem%20Statements.md))
+🔗 [See full list here →][Business Questions and Problem Statements.md]
 
 Examples include:
 - Which pizza types generate the most revenue?
